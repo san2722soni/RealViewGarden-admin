@@ -1,0 +1,65 @@
+Products: {
+    id: 'd43dc4b6-7134-4793-add7-74ec45d0402a',
+    storeId: '4fe6bd20-4c4e-4ebc-888a-10260e80eca8',
+    categoryId: 'a1ed4006-f812-4d93-9f82-aba7d55efc9c',
+    name: 'Synogym',
+    price: 499,
+    isFeatured: true,
+    isArchived: true,
+    isBestSeller: false,
+    sizeId: '6cd3b558-f33b-4d36-9d45-dfc4066244a5',
+    potId: '4fea5a61-2bef-4d45-b7c3-a0a71e1c7c47',
+    colorId: '3ec86627-89e2-4463-9df4-af50243b5b3e',
+    createdAt: 2024-02-25T01:29:24.900Z,
+    updatedAt: 2024-02-25T01:29:24.900Z,
+    images: [
+      {
+        id: '8d281522-8578-4e9c-8e4d-5cbb11b69748',
+        productId: 'd43dc4b6-7134-4793-add7-74ec45d0402a',
+        url: 'https://res.cloudinary.com/dyxio9jfi/image/upload/v1708824500/demuo2xeilqmcsxeoqiq.jpg',
+        createdAt: 2024-02-25T01:29:24.900Z,
+        updatedAt: 2024-02-25T01:29:24.900Z
+      },
+      {
+        id: 'ede3b4cf-12fa-4cdc-a6c2-c9d0a40f0170',
+        productId: 'd43dc4b6-7134-4793-add7-74ec45d0402a',
+        url: 'https://res.cloudinary.com/dyxio9jfi/image/upload/v1708824500/pvdrbs8kjbwynedvhgj2.jpg',
+        createdAt: 2024-02-25T01:29:24.900Z,
+        updatedAt: 2024-02-25T01:29:24.900Z
+      }
+    ],
+    category: {
+      id: 'a1ed4006-f812-4d93-9f82-aba7d55efc9c',
+      storeId: '4fe6bd20-4c4e-4ebc-888a-10260e80eca8',
+      billboardId: 'c03f3993-7088-4bf0-afb9-1039b0556979',
+      name: 'Workspace ',
+      createdAt: 2024-02-15T10:02:36.532Z,
+      updatedAt: 2024-02-15T10:03:24.135Z
+    },
+    color: {
+      id: '3ec86627-89e2-4463-9df4-af50243b5b3e',
+      storeId: '4fe6bd20-4c4e-4ebc-888a-10260e80eca8',
+      name: 'White ',
+      value: '#fff',
+      createdAt: 2024-02-15T10:08:56.183Z,
+      updatedAt: 2024-02-15T10:08:56.183Z
+    },
+    size: {
+      id: '6cd3b558-f33b-4d36-9d45-dfc4066244a5',
+      storeId: '4fe6bd20-4c4e-4ebc-888a-10260e80eca8',
+      name: 'Medium',
+      value: 'M',
+      createdAt: 2024-02-15T10:08:30.978Z,
+    },
+    pot: {
+      id: '4fea5a61-2bef-4d45-b7c3-a0a71e1c7c47',
+      storeId: '4fe6bd20-4c4e-4ebc-888a-10260e80eca8',
+    pot: {
+      id: '4fea5a61-2bef-4d45-b7c3-a0a71e1c7c47',
+      storeId: '4fe6bd20-4c4e-4ebc-888a-10260e80eca8',
+      name: 'Grape Pot',
+      value: 'Grape Pot',
+      createdAt: 2024-02-15T10:06:13.552Z,
+      updated: 2024-02-15T10:06:13.552Z
+    }
+  }
